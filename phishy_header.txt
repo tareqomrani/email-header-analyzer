@@ -1,0 +1,9 @@
+
+Return-Path: <admin@fakesite.com>
+Received: from unknown123.net (123.123.123.123)
+DKIM=Pass
+SPF=Fail
+Authentication-Results: dmarc=fail (p=NONE dis=NONE) header.from=fakesite.com
+From: "Amazon Support" <alerts@fakesite.com>
+Reply-To: "Amazon" <spoofed@badactor.com>
+Subject: Urgent - Account Access Issue

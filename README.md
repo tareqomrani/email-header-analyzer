@@ -11,4 +11,4 @@ python header_analyzer.py
 ## Features
 - Identifies spoofing risks
 - Basic phishing indicator logic
--Try the Streamlit interface by running: streamlit run header_ui.py
+- Try the Streamlit interface by running: streamlit run header_ui.py
